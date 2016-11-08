@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<head>
+
+ <title>Dalin Mitchell</title>
+
+<style>
+
+  body {
+
+   text-align: center;
+
+  background: url("http://cdn.pcwallart.com/images/lava-volcano-wallpaper-2.jpg");
+
+  background-size: cover;
+
+ background-position: center;
+
+      color: black;
+
+ font-family: helvetica;
+
+  }p {font-size: 22px; }input { border: 0;padding: 10px;font-size: 18px; }
+
+
+  </style>
+
+</head>
+
+<body>
+
+<img src=https://tse4.mm.bing.net/th?id=OIP.Mfa0d5e4ad0d6f873433002535ffe4ee9o0&pid=15.1 
+
+ <h1>Dalin Mitchell</h1>
+
+ <p>Hello i'm Dalin,</p>
+
+
+ 
+
+</body>
